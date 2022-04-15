@@ -1,6 +1,6 @@
 # AngularService
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+Project serves as purpose to demonstrate Angular service and Dependency Injection system. Visit [Demystifying Angular Services and Dependency Injection](https://yeshasmp.github.io/posts/angular-services/) to learn how Dependency Injection and Singleton nature of Angular Services!
 
 ## Development server
 
