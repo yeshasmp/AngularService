@@ -1,6 +1,8 @@
 # AngularService
 
-Project serves as purpose to demonstrate Angular service and Dependency Injection system. Visit [Demystifying Angular Services and Dependency Injection](https://yeshasmp.github.io/posts/angular-services/) to learn how Dependency Injection and Singleton nature of Angular Services!
+Project serves as purpose to demonstrate Angular service and Dependency Injection system. Visit [Demystifying Angular Services and Dependency Injection](https://yeshasmp.github.io/posts/angular-services/) to learn about Dependency Injection and Singleton nature of Angular Services!
+
+Head to [Stackblitz](https://stackblitz.com/edit/angular-ivy-r6cden) to experiment and play this code example.
 
 ## Development server
 
